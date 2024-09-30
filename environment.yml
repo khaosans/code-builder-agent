@@ -1,0 +1,7 @@
+name: my_project_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - some_package
+  - another_package
